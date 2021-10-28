@@ -1,9 +1,9 @@
 # theme.toml template for a Hugo theme
 
 name = "Base Bootstrap Hugo Theme"
-license = "MIT"
+license = ""
 licenselink = "https://github.com/Djacomo/tato/LICENSE.md"
-description = "A Base theme for building full featured Hugo sites using Bootstrap"
+description = "A simple theme for building full featured Hugo sites using Bootstrap"
 homepage = "https://github.com/Djacomo/tato/"
 tags = ["website", "starter", "responsive"]
 min_version = 0.31

@@ -1,0 +1,29 @@
+languageCode = "it-it"
+title = "Lorem My Title Ipsum "
+
+[Params]
+  owner = "Owner"
+  ownerLink = ""
+  siteTitle = "Your Title Here"
+  siteDescription = "Blog title Here"
+
+  footerColumn1Title = "Lorem Ipsum"
+  footerColumn1Text = "Lorem Ipsum"
+  footerColumn1Links = [
+    { label = "Link 1", url = "#" },
+    { label = "Link 2", url = "#" }
+  ]
+
+  footerColumn2Title = "Lorem Ipsum"
+  footerColumn2Text = "Lorem Ipsum"
+  footerColumn2Links = [
+    { label = "Link 1", url = "#" },
+    { label = "Link 2", url = "#" },
+    { label = "Link 3", url = "#" }
+  ]
+
+  footerBottomLinks = [
+    { label = "Note legali", url = "#" },
+    { label = "Privacy policy", url = "#" }
+  ]
+
