@@ -1,2 +1,2 @@
 # tato
-A base theme based on Bootstrap for a clear and simple Blog
+A simple Hugo theme based on Bootstrap for a clear and simple Blog
