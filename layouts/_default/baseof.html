@@ -2,7 +2,7 @@
 <html lang="{{ $.Site.LanguageCode | default "it" }}">
     <head>
         {{ block "head" . }}{{ partial "html-head.html" .}}{{ end }}
-        {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
+        {{ block "head-additions" . }}{{ partial "head-additions.html" . }}{{ end }}
     </head>
 
     <body>
