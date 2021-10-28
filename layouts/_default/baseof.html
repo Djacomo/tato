@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default it }}">
+<html lang="{{ $.Site.LanguageCode | default "it" }}">
     <head>
         {{ block "head" . }}{{ partial "html-head.html" .}}{{ end }}
         {{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
