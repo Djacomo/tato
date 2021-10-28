@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "it" }}">
+<head>
+    {{ block "head" . }}{{ partial "html-head.html" .}}{{ end }}
+</head>
+
+<body>
+{{ block "header" . }}{{ partial "header.html" .}}{{ end }}
+<main>
+    {{ block "main" . }}{{ end }}
+</main>
+{{ block "scripts" . }}{{ partial "footer-includes.html" . }}{{ end }}
+{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+</body>
+</html>
