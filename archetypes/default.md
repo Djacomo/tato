@@ -4,6 +4,4 @@ date: {{ .Date }}
 draft: true
 ---
 
-
-
-DEFAULT
+DEFAULT ARCHETYPE
