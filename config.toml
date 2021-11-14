@@ -1,3 +1,5 @@
+module.hugoVersion.min= "0.88.1"
+
 languageCode = "it-it"
 title = "Lorem My Title Ipsum "
 
